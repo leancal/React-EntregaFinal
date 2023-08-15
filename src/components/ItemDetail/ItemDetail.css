@@ -1,0 +1,56 @@
+.cardDetContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid rgb(28, 27, 27);
+    border-radius: 5px;
+    background-color: rgb(228 224 222);
+    width: 85%;
+    height: 79%;
+    margin: 15px;
+}
+
+.cardDetails {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 75%;
+}
+
+.cardDetDesc {
+    text-align: justify;
+    margin-left: 30px;
+}
+
+ .cardDetails img {
+    height: 100%
+ }
+
+.productDetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.cardDetTitle, .cardDetPrice {
+    font-weight: bold;
+    font-size: 1.4rem; 
+    text-align: center; 
+    
+}
+
+
+.cardDetCover {
+    height: 58%;
+}
+
+.cardDetCateg, .cardDetStock {
+    font-size: 1.1rem;
+}

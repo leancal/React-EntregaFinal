@@ -1,0 +1,19 @@
+* {
+  font-family: 'Noticia Text', serif;
+}
+
+body {
+  background-color: rgb(234, 243, 233);
+  margin: 0rem;
+  font-family: 'Noticia Text', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Noticia Text', serif;
+}
+
+.active {
+  color: grey!important;
+}

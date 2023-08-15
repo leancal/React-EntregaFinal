@@ -1,0 +1,54 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+    background: linear-gradient(#d7e8d2, #3ab02b);
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.imgTe {
+    width: 20rem;
+}
+
+.navBarContainer {
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2ECC71;
+}
+
+.navBarContainer>img {
+    height: 40px;
+}
+
+.navBarButton {
+    cursor: pointer;
+    border: none;
+    font-size: 1.2rem;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.activeNavBarButton {
+    background-color: rgb(211, 203, 204);
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

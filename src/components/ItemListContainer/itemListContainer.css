@@ -1,0 +1,11 @@
+.container {
+    min-height: 100vh;    
+    /*background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./assets/fondo_biblioteca.jpg);*/
+    background-size: cover;
+}
+
+.greetingMsg {
+    padding-top: 100px;
+    color: white;
+    text-align: center;    
+}
