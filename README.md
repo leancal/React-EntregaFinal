@@ -1,6 +1,6 @@
-# e-Commerce Tés del Sur
-Este es un proyecto básico de e-commerce desarrollado en React JS para el curso homónimo de CoderHouse.
-Se visualiza una lista de tés y realizar compras online. Los tés y las Órdenes de Compra se almacenan en Firebase de Google.
+# e-Commerce
+Este es un proyecto básico de e-commerce desarrollado en React JS para el curso de CoderHouse.
+Se visualiza una lista de productos y realizar compras online. Los productos y las Órdenes de Compra se almacenan en Firebase de Google.
 
 ## Tecnologías utilizadas
 - React JS
@@ -8,8 +8,8 @@ Se visualiza una lista de tés y realizar compras online. Los tés y las Órdene
 - Firebase
 
 ## Funcionalidades
-- Ver una lista de tés
-- Agregar tés al carrito de compras
+- Ver una lista de productos
+- Agregar productos al carrito de compras
 - Ver el carrito de compras
 - Realizar una Orden de Compra, que tendrá un código particular.
 
